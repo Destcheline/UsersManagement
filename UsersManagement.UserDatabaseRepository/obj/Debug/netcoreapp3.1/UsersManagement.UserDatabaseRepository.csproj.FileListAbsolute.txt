@@ -1,0 +1,13 @@
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.deps.json
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.pdb
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\bin\Debug\netcoreapp3.1\UsersManagement.Domain.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\bin\Debug\netcoreapp3.1\UsersManagement.Domain.pdb
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.csproj.AssemblyReference.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.AssemblyInfoInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.AssemblyInfo.cs
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.csproj.CoreCompileInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.csproj.CopyComplete
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserDatabaseRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserDatabaseRepository.pdb

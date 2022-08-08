@@ -1,0 +1,10 @@
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\bin\Debug\netcoreapp3.1\Usersmanagement.Domain.deps.json
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\bin\Debug\netcoreapp3.1\Usersmanagement.Domain.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\bin\Debug\netcoreapp3.1\Usersmanagement.Domain.pdb
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.csproj.AssemblyReference.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.AssemblyInfoInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.AssemblyInfo.cs
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.csproj.CoreCompileInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\Usersmanagement.Domain\obj\Debug\netcoreapp3.1\Usersmanagement.Domain.pdb

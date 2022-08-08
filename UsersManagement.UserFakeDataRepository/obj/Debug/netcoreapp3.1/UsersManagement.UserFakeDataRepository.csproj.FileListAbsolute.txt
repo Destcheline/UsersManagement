@@ -1,0 +1,13 @@
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.deps.json
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\bin\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.pdb
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\bin\Debug\netcoreapp3.1\Usersmanagement.Domain.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\bin\Debug\netcoreapp3.1\Usersmanagement.Domain.pdb
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.csproj.AssemblyReference.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.AssemblyInfoInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.AssemblyInfo.cs
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.csproj.CoreCompileInputs.cache
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.csproj.CopyComplete
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.dll
+D:\Files\Yazılım\API\Ayrıprojeli\UsersManagement\UsersManagement.UserFakeDataRepository\obj\Debug\netcoreapp3.1\UsersManagement.UserFakeDataRepository.pdb

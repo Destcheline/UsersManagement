@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserDatabaseRepository\\UsersManagement.UserDatabaseRepository.csproj": {}
+  },
+  "projects": {
+    "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\UsersManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\UsersManagement.Domain.csproj",
+        "projectName": "UsersManagement.Domain",
+        "projectPath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\UsersManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Destcheline\\.nuget\\packages\\",
+        "outputPath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Destcheline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserDatabaseRepository\\UsersManagement.UserDatabaseRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserDatabaseRepository\\UsersManagement.UserDatabaseRepository.csproj",
+        "projectName": "UsersManagement.UserDatabaseRepository",
+        "projectPath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserDatabaseRepository\\UsersManagement.UserDatabaseRepository.csproj",
+        "packagesPath": "C:\\Users\\Destcheline\\.nuget\\packages\\",
+        "outputPath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserDatabaseRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Destcheline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\UsersManagement.Domain.csproj": {
+                "projectPath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\Usersmanagement.Domain\\UsersManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

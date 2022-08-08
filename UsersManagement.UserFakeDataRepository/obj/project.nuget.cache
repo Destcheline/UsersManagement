@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FEIbWBQm+V1wqq5XAZoMonCErrS3PpSbi6Kq6dPM87OF32TQ57uj9d+WsDmJlxSoONNSgfyTvaomRMKjxf4X2w==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Yazılım\\API\\Ayrıprojeli\\UsersManagement\\UsersManagement.UserFakeDataRepository\\UsersManagement.UserFakeDataRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Destcheline\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Destcheline\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
